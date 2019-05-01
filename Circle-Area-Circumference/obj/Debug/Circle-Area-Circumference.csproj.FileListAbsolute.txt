@@ -1,0 +1,7 @@
+C:\Users\fatmo\Grand Circus\Exercises\Objects\Circle-Area-Circumference\Circle-Area-Circumference\bin\Debug\Circle-Area-Circumference.exe.config
+C:\Users\fatmo\Grand Circus\Exercises\Objects\Circle-Area-Circumference\Circle-Area-Circumference\bin\Debug\Circle-Area-Circumference.exe
+C:\Users\fatmo\Grand Circus\Exercises\Objects\Circle-Area-Circumference\Circle-Area-Circumference\bin\Debug\Circle-Area-Circumference.pdb
+C:\Users\fatmo\Grand Circus\Exercises\Objects\Circle-Area-Circumference\Circle-Area-Circumference\obj\Debug\Circle-Area-Circumference.csprojAssemblyReference.cache
+C:\Users\fatmo\Grand Circus\Exercises\Objects\Circle-Area-Circumference\Circle-Area-Circumference\obj\Debug\Circle-Area-Circumference.csproj.CoreCompileInputs.cache
+C:\Users\fatmo\Grand Circus\Exercises\Objects\Circle-Area-Circumference\Circle-Area-Circumference\obj\Debug\Circle-Area-Circumference.exe
+C:\Users\fatmo\Grand Circus\Exercises\Objects\Circle-Area-Circumference\Circle-Area-Circumference\obj\Debug\Circle-Area-Circumference.pdb
