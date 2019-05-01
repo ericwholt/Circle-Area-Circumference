@@ -8,7 +8,7 @@ namespace Circle_Area_Circumference
 {
     public class Circle
     {
-        public double radius;
+        private double radius;
 
         public Circle(double radius)
         {
@@ -34,9 +34,11 @@ namespace Circle_Area_Circumference
             //The Circumference
             //Circumference: 18.85
             //Area: 28.27
+            Console.WriteLine("-----------------------");
             Console.WriteLine("Radius: "+ radius);
             Console.WriteLine("Circumference: " + GetCircumference());
             Console.WriteLine("Area: " + GetArea());
+            Console.WriteLine("-----------------------");
         }
     }
 }

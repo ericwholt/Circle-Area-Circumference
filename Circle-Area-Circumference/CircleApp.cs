@@ -19,13 +19,14 @@ namespace Circle_Area_Circumference
             {
                 Console.WriteLine("Please enter the radius of a circle: ");
                 bool isValidUserInput = Double.TryParse(Console.ReadLine(), out double userInput);
-                if (isValidUserInput)
+                if (isValidUserInput && userInput > 0)
                 {
                     Circle c = new Circle(userInput);
                     Circles.Add(c);
                 }
                 else
                 {
+                    Console.WriteLine("Not a valid input");
                     continue;
                 }
                 bool askToEnterAnotherCircle = true;
@@ -54,6 +55,7 @@ namespace Circle_Area_Circumference
         
         public void PrintCircles()
         {
+            Console.WriteLine("Number of circles: " + Circles.Count());
             foreach (Circle circle in Circles)
             {
                 circle.PrintInfo();
